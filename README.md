@@ -9,5 +9,5 @@
 3. Open up the workshop_content.ipynb notebook
 4. Download the zip of this repository
 5. Unzip the zip file
-6. Upload the transport.csv file
+6. In the files tab of google colab (middle left of the page), upload the transport.csv file
 7. You can now run the code
